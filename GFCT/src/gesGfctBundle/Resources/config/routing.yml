@@ -1,0 +1,6 @@
+ges_gfct_homepage:
+    path:     /index
+    defaults: { _controller: gesGfctBundle:Default:index }
+all_empresa:
+    path:     /empresa/all
+    defaults: { _controller: gesGfctBundle:empresa:all }
